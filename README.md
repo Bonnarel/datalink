@@ -12,3 +12,5 @@ the original published
 [REC-DataLink-1.0.pdf](http://www.ivoa.net/documents/DataLink/20150617/REC-DataLink-1.0-20150617.pdf)
 file into ivoatex format.
 
+[![PDF-Preview](https://img.shields.io/badge/Preview-PDF-blue)](../../releases/download/auto-pdf-preview/DataLink.pdf)
+
